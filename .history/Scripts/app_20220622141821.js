@@ -1,0 +1,6 @@
+//ITFE --Immediately invoked 
+
+(function()
+{
+
+})();
